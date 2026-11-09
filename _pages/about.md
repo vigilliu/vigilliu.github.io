@@ -17,7 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+**Open to PhD Opportunities (Fall 2027)**
+
+I am currently working as a Research Assistant at **Sichuan University**, where I focus on deep learning and computer-assisted aortic valve replacement. My current research involves medical image segmentation, multimodal image registration, and ultrasound-guided surgical navigation. I am particularly interested in developing intelligent systems that can bridge medical image understanding and real-world surgical applications. If you are interested in **academic collaboration** or research opportunities, please feel free to contact me via email.
+
+I obtained my **Master's degree in Computer Science** from [Yunnan University](https://www.ynu.edu.cn/), advised by [Prof. Wenhua Qian](#). Before that, I received my Bachelor's degree in **Internet of Things Engineering** from [Yunnan University of Finance and Economics](https://www.ynufe.edu.cn/).
+
+My research interests lie at the intersection of **Medical AI, Computer Vision, and Embodied Intelligence**. My current work focuses on medical image segmentation, multimodal medical image registration, and ultrasound-based surgical guidance. Looking ahead, I am particularly interested in **Vision-Language-Action (VLA) models, embodied AI, and intelligent surgical robotics**, aiming to move beyond visual perception toward intelligent decision-making and physical interaction in clinical environments.
+
+I have published a first-author paper at **MICCAI 2024**:
+
+- *Overlay Mantle-Free for Semi-supervised Medical Image Segmentation.*
+
+I am also working on research involving deep learning-based aortic valve detection from transesophageal echocardiography (TEE) and multimodal CT-TEE registration. Our work on aortic valve detection has been submitted to **IEEE Journal of Biomedical and Health Informatics (JBHI)** and is currently under review.
+
+I enjoy exploring challenging research problems, developing practical AI methods, and collaborating with researchers from different backgrounds. My long-term goal is to contribute to the development of **embodied intelligent medical robots** that can understand clinical environments, make informed decisions, and assist surgeons in real-world procedures.
+
+For academic inquiries, research discussions, or potential collaborations, please feel free to reach me at [jiacheng.liu@scai-ji.cn](mailto:jiacheng.liu@scai-ji.cn).
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
