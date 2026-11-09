@@ -19,9 +19,9 @@ redirect_from:
 
 **Open to PhD Opportunities (Fall 2027)**
 
-I was a Research Assistant at **Sichuan University**四川大学, where I focus on deep learning and multimodal image registration on aortic valve replacement medical robot, advised by [Prof. Lixu Gu](https://bme.sjtu.edu.cn/Web/FacultyDetail/37). My current research involves medical image segmentation, and ultrasound-guided surgical navigation. I am particularly interested in developing intelligent systems that can bridge medical image Computer Vision and real-world surgical applications.
+I was a Research Assistant at **Sichuan University**[四川大学匹兹堡学院](https://scupi.scu.edu.cn), where I focus on deep learning and multimodal image registration on aortic valve replacement medical robot, advised by [Prof. Lixu Gu](https://bme.sjtu.edu.cn/Web/FacultyDetail/37). I obtained my **Master's degree in Computer Technology** from **Yunnan University**[云南大学](https://www.ynu.edu.cn/), advised by [Prof. Wenhua Qian](https://www.ise.ynu.edu.cn/faculty/152/). Before that, I received my **Bachelor's degree in Internet of Things Engineering** from **Yunnan University of Finance and Economics** [云南财经大学](https://www.ynufe.edu.cn/).
 
-I obtained my **Master's degree in Computer Technology** from [Yunnan University云南大学](https://www.ynu.edu.cn/), advised by [Prof. Wenhua Qian](https://www.ise.ynu.edu.cn/faculty/152/). Before that, I received my **Bachelor's degree in Internet of Things Engineering** from [Yunnan University of Finance and Economics云南财经大学](https://www.ynufe.edu.cn/).
+My current research involves medical image segmentation, and ultrasound-guided surgical navigation. I am particularly interested in developing intelligent systems that can bridge medical image Computer Vision and real-world surgical applications.
 
 My research interests lie at the intersection of **Medical AI, Computer Vision, and VLA**. Looking ahead, I am particularly interested in **Vision-Language-Action (VLA) models, embodied AI, and intelligent surgical robotics**.
 
