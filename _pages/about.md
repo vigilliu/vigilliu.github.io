@@ -19,7 +19,7 @@ redirect_from:
 
 ‼️🤩**Open to PhD Opportunities (Fall 2027)**
 
-I was a Research Assistant at **Sichuan University-Pittsburgh Institute**四川大学匹兹堡学院<strong><a href="https://scupi.scu.edu.cn" target="_blank"> <img src="{{ '/images/logos/scupi.png' | relative_url }}" alt="SCUPI" style="height:1em; width:auto; vertical-align:-0.12em; margin-left:4px;"></a></strong>, where I focus on deep learning and multimodal image registration on aortic valve replacement medical robot, advised by [Prof. Lixu Gu](https://bme.sjtu.edu.cn/Web/FacultyDetail/37). I obtained my **Master's degree in Computer Technology** from **Yunnan University**云南大学<strong><a href="https://www.ynu.edu.cn/" target="_blank"> <img src="{{ '/images/logos/YNU1.png' | relative_url }}" alt="YNU1" style="height:1em; width:auto; vertical-align:-0.12em; margin-left:4px;"></a></strong><strong><a href="https://www.ynu.edu.cn/" target="_blank"> <img src="{{ '/images/logos/YNU2.png' | relative_url }}" alt="YNU2" style="height:1em; width:auto; vertical-align:-0.12em; margin-left:4px;"></a></strong>, advised by [Prof. Wenhua Qian](https://www.ise.ynu.edu.cn/faculty/152/). Before that, I received my **Bachelor's degree in Internet of Things Engineering** from **Yunnan University of Finance and Economics**云南财经大学<strong><a href="[https://www.ynu.edu.cn/](https://www.ynufe.edu.cn/)" target="_blank"> <img src="{{ '/images/logos/YNUFE.png' | relative_url }}" alt="YNUFE" style="height:1em; width:auto; vertical-align:-0.12em; margin-left:4px;"></a></strong>
+I was a Research Assistant at **Sichuan University-Pittsburgh Institute**四川大学匹兹堡学院<strong><a href="https://scupi.scu.edu.cn" target="_blank"><img src="{{ '/images/logos/scupi.png' | relative_url }}" alt="SCUPI" style="height:1em; width:auto; vertical-align:-0.12em; margin-left:4px;"></a></strong>, where I focus on deep learning and multimodal image registration on aortic valve replacement medical robot, advised by [Prof. Lixu Gu](https://bme.sjtu.edu.cn/Web/FacultyDetail/37). I obtained my **Master's degree in Computer Technology** from **Yunnan University**云南大学<strong><a href="https://www.ynu.edu.cn/" target="_blank"><img src="{{ '/images/logos/YNU1.png' | relative_url }}" alt="YNU1" style="height:1em; width:auto; vertical-align:-0.12em; margin-left:4px;"></a></strong><strong><a href="https://www.ynu.edu.cn/" target="_blank"> <img src="{{ '/images/logos/YNU2.png' | relative_url }}" alt="YNU2" style="height:1em; width:auto; vertical-align:-0.12em; margin-left:4px;"></a></strong>, advised by [Prof. Wenhua Qian](https://www.ise.ynu.edu.cn/faculty/152/). Before that, I received my **Bachelor's degree in Internet of Things Engineering** from **Yunnan University of Finance and Economics**云南财经大学<strong><a href="[https://www.ynu.edu.cn/](https://www.ynufe.edu.cn/)" target="_blank"><img src="{{ '/images/logos/YNUFE.png' | relative_url }}" alt="YNUFE" style="height:1em; width:auto; vertical-align:-0.12em; margin-left:4px;"></a></strong>
 
 My current research involves medical image segmentation, registration and ultrasound-guided surgical navigation. My research interests lie at the intersection of **Medical AI, Computer Vision, and VLA**.
 
@@ -33,9 +33,6 @@ For academic inquiries, research discussions, or potential collaborations, pleas
 - *2025.09*: &nbsp;🎉🎉 Graduated with a Master's degree in Computer Technology from **Yunnan University**.
 - *2024.07*: &nbsp;🎉🎉 My first-author paper was accepted at **MICCAI 2024**.
 - *2024.03*: &nbsp;🎉🎉 Started an Algorithm Internship at **HZZT**（Hangzhou Zhituan Information Technology，杭州智团）, working on AI for digital pathology.
-
-# 📝 Publications 
-
 
 # 📝 Publications
 
