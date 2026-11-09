@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiacheng Liu"
-description              : "Jiacheng Liu's academic homepage. Research interests include Medical AI, Computer Vision, Surgical Robotics, and Vision-Language-Action Models. "
+description              : "Research interests include Medical AI, Computer Vision, Surgical Robotics, and Vision-Language-Action. "
 repository               : "vigilliu/vigilliu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiacheng Liu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/JCL.jpg"
   bio              : "Yunnan University"
   location         : "Sichuan, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "vigilliu"
+  github           : vigilliu
   google_plus      :
   keybase          :
   instagram        :
