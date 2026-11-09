@@ -38,26 +38,56 @@ For academic inquiries, research discussions, or potential collaborations, pleas
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI‘24</div><img src='images/MICCAI24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Overlay Mantle-Free for Semi-supervised Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_55)
+# 📝 Publications
 
-**Jiacheng Liu**, Wenhua Qian, Jinde Cao & Peng Liu 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">MICCAI 2024</div>
+      <img src="/images/MICCAI24.png" alt="MICCAI 2024 paper">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> JBHI Under Review </div><img src='images/JBHI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**[Overlay Mantle-Free for Semi-supervised Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_55)**
 
-[D2EHNet: Double-Decoupled Edge-Holistic Learning for Aortic Valve Auto-Detection from Artifact-Awared Transesophageal echocardiograph]
+**Jiacheng Liu**, Wenhua Qian, Jinde Cao, and Peng Liu.
 
-**Jiacheng Liu**, Ziyi Wang, Borui Ning, and Lixu Gu
+  </div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Manuscript </div><img src='images/reg.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">JBHI Under Review</div>
+      <img src="/images/JBHI.png" alt="D2EHNet paper">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
 
-[Frame to Volume Medical Image Registration for Aortic Valve on 2D TEE-3D CT]
+**D2EHNet: Double-Decoupled Edge-Holistic Learning for Aortic Valve Auto-Detection from Artifact-Aware TEE**
 
-**Jiacheng Liu**, Faqiang Zhang, Liuxu Gu 
+**Jiacheng Liu**, Ziyi Wang, Borui Ning, and Lixu Gu.
+
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Manuscript</div>
+      <img src="/images/reg.png" alt="CT-TEE registration paper">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+**Frame-to-Volume Medical Image Registration for Aortic Valve Localization Using 2D TEE and 3D CT**
+
+**Jiacheng Liu**, Faqiang Zhang, and Lixu Gu.
+
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2025.09* Sichuan University “FREE Scholar” Scholarship
