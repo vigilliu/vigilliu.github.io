@@ -27,6 +27,8 @@ I enjoy exploring challenging research problems, developing practical AI methods
 
 For academic inquiries, research discussions, or potential collaborations, please feel free to reach me at [jiacheng.liu@scai-ji.cn](mailto:jiacheng.liu@scai-ji.cn).
 
+I am currently seeking opportunities for a PhD.
+
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Awarded the **FREE Scholar** and joined **Sichuan University** as a Research Assistant.
