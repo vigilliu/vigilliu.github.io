@@ -19,13 +19,11 @@ redirect_from:
 
 ‼️🤩**Open to PhD Opportunities (Fall 2027)**
 
-I was a Research Assistant at **Sichuan University-Pittsburgh Institute**四川大学匹兹堡学院[web](https://scupi.scu.edu.cn), where I focus on deep learning and multimodal image registration on aortic valve replacement medical robot, advised by [Prof. Lixu Gu](https://bme.sjtu.edu.cn/Web/FacultyDetail/37). I obtained my **Master's degree in Computer Technology** from **Yunnan University**云南大学[web](https://www.ynu.edu.cn/), advised by [Prof. Wenhua Qian](https://www.ise.ynu.edu.cn/faculty/152/). Before that, I received my **Bachelor's degree in Internet of Things Engineering** from **Yunnan University of Finance and Economics**云南财经大学[web](https://www.ynufe.edu.cn/).
+I was a Research Assistant at <strong><a href="https://scupi.scu.edu.cn" target="_blank">Sichuan University-Pittsburgh Institute <img src="{{ '/images/logos/scupi.png' | relative_url }}" alt="SCUPI" style="height:1em; width:auto; vertical-align:-0.12em; margin-left:4px;"></a></strong> **Sichuan University-Pittsburgh Institute**四川大学匹兹堡学院[web](https://scupi.scu.edu.cn), where I focus on deep learning and multimodal image registration on aortic valve replacement medical robot, advised by [Prof. Lixu Gu](https://bme.sjtu.edu.cn/Web/FacultyDetail/37). I obtained my **Master's degree in Computer Technology** from **Yunnan University**云南大学[web](https://www.ynu.edu.cn/), advised by [Prof. Wenhua Qian](https://www.ise.ynu.edu.cn/faculty/152/). Before that, I received my **Bachelor's degree in Internet of Things Engineering** from **Yunnan University of Finance and Economics**云南财经大学[web](https://www.ynufe.edu.cn/).
 
-My current research involves medical image segmentation, registration and ultrasound-guided surgical navigation. I am particularly interested in developing intelligent systems that can bridge medical image Computer Vision and real-world surgical applications.
+My current research involves medical image segmentation, registration and ultrasound-guided surgical navigation. My research interests lie at the intersection of **Medical AI, Computer Vision, and VLA**.
 
-My research interests lie at the intersection of **Medical AI, Computer Vision, and VLA**. Looking ahead, I am particularly interested in **Vision-Language-Action (VLA) models, embodied AI, and intelligent surgical robotics**.
-
-I enjoy exploring challenging research problems, developing practical AI methods, and collaborating with researchers from different backgrounds. My long-term goal is to contribute to the development of **embodied intelligent medical robots** that can understand clinical environments, make informed decisions, and assist surgeons in real-world procedures.
+I enjoy exploring challenging research problems, developing practical AI methods. My long-term goal is to contribute to the development of **embodied intelligent medical robots** that can understand clinical environments, make informed decisions, and assist surgeons in real-world procedures.
 
 For academic inquiries, research discussions, or potential collaborations, please feel free to reach me at [jiacheng.liu@scai-ji.cn](mailto:jiacheng.liu@scai-ji.cn).
 
@@ -105,4 +103,4 @@ For academic inquiries, research discussions, or potential collaborations, pleas
 
 # 💻 Internships
 - *2025.09 - 2026.09* West China Pitech Co., Ltd. [Pitech](https://www.hxmedbot.com), Chengdu, China
-- *2019.05 - 2020.02*, Hangzhou Zhituan Information Technology Co., Ltd. [HZZT](https://www.hzztai.com),Hangzhou, China.
+- *2024.03 - 2024.07*, Hangzhou Zhituan Information Technology Co., Ltd. [HZZT](https://www.hzztai.com),Hangzhou, China.
