@@ -19,11 +19,11 @@ redirect_from:
 
 **Open to PhD Opportunities (Fall 2027)**
 
-I am currently working as a Research Assistant at **Sichuan University**, where I focus on deep learning and computer-assisted aortic valve replacement. My current research involves medical image segmentation, multimodal image registration, and ultrasound-guided surgical navigation. I am particularly interested in developing intelligent systems that can bridge medical image understanding and real-world surgical applications. If you are interested in **academic collaboration** or research opportunities, please feel free to contact me via email.
+I was a Research Assistant at **Sichuan University**四川大学, where I focus on deep learning and multimodal image registration on aortic valve replacement medical robot, advised by [Prof. Lixu Gu](https://bme.sjtu.edu.cn/Web/FacultyDetail/37). My current research involves medical image segmentation, and ultrasound-guided surgical navigation. I am particularly interested in developing intelligent systems that can bridge medical image Computer Vision and real-world surgical applications.
 
-I obtained my **Master's degree in Computer Science** from [Yunnan University](https://www.ynu.edu.cn/), advised by [Prof. Wenhua Qian](#). Before that, I received my Bachelor's degree in **Internet of Things Engineering** from [Yunnan University of Finance and Economics](https://www.ynufe.edu.cn/).
+I obtained my **Master's degree in Computer Technology** from [Yunnan University云南大学](https://www.ynu.edu.cn/), advised by [Prof. Wenhua Qian](https://www.ise.ynu.edu.cn/faculty/152/). Before that, I received my **Bachelor's degree in Internet of Things Engineering** from [Yunnan University of Finance and Economics云南财经大学](https://www.ynufe.edu.cn/).
 
-My research interests lie at the intersection of **Medical AI, Computer Vision, and Embodied Intelligence**. My current work focuses on medical image segmentation, multimodal medical image registration, and ultrasound-based surgical guidance. Looking ahead, I am particularly interested in **Vision-Language-Action (VLA) models, embodied AI, and intelligent surgical robotics**, aiming to move beyond visual perception toward intelligent decision-making and physical interaction in clinical environments.
+My research interests lie at the intersection of **Medical AI, Computer Vision, and VLA**. Looking ahead, I am particularly interested in **Vision-Language-Action (VLA) models, embodied AI, and intelligent surgical robotics**.
 
 I have published a first-author paper at **MICCAI 2024**:
 
@@ -35,40 +35,50 @@ I enjoy exploring challenging research problems, developing practical AI methods
 
 For academic inquiries, research discussions, or potential collaborations, please feel free to reach me at [jiacheng.liu@scai-ji.cn](mailto:jiacheng.liu@scai-ji.cn).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 Awarded the **FREE Scholar** and joined **Sichuan University** as a Research Assistant.
+- *2025.09*: &nbsp;🎉🎉 Graduated with a Master's degree in Computer Technology from **Yunnan University**.
+- *2024.07*: &nbsp;🎉🎉 My first-author paper was accepted at **MICCAI 2024**.
+- *2024.03*: &nbsp;🎉🎉 Started an Algorithm Internship at **HZZT**（Hangzhou Zhituan Information Technology，杭州智团）, working on AI for digital pathology.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI‘24</div><img src='images/MICCAI24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Overlay Mantle-Free for Semi-supervised Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-72117-5_55)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiacheng Liu**, Wenhua Qian, Jinde Cao & Peng Liu 
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> JBHI Under Review </div><img src='images/JBHI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[D2EHNet: Double-Decoupled Edge-Holistic Learning for Aortic Valve Auto-Detection from Artifact-Awared Transesophageal echocardiograph]
+
+**Jiacheng Liu**, Ziyi Wang, Borui Ning, and Lixu Gu
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Manuscript </div><img src='images/reg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Frame to Volume Medical Image Registration for Aortic Valve on 2D TEE-3D CT]
+
+**Jiacheng Liu**, Faqiang Zhang, Liuxu Gu 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09* Sichuan University “FREE Scholar” Scholarship
+- *2024.08*: CHINA “Internet+” Provincial Silver Award: “Ancient Rubbings–Digital Preservation of Cultural Relic Rubbings” Utilized edge detection algorithms to extract edges from rubbing and relic photos, preventing secondary damage to the rubbings and relics during manual processing.
+- *2024.10*: Second-Class Graduate Scholarship of Yunnan University
+- *2023.10*: Third-Class Graduate Scholarship of Yunnan University
+- *2023.10*: Mathematical Modeling Participation Award: Huawei Graduate Mathematical Modeling Contest Research on the Correlation Between Hematoma-Perihematomal Edema Modeling and Treatment in Stroke Patients.
+- *2022.10* Third-Class Graduate Scholarship of Yunnan University
+- *2021–2022*: Inspirational Scholarship of Yunnan University of Finance and Economics
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.09 - 2026.09*, Research Assistant at Sichuan University. Chengdu, China.
+- *2022.09 - 2025.06*, Master of Yunnan University. Kunming, China.
+- *2018.09 - 2022.06*, Bachelor of Yunnan University of Finance and Economics. Kunming, China.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.09 - 2026.09* West China Pitech Co., Ltd. [Pitech](https://www.hxmedbot.com), Chengdu, China
+- *2019.05 - 2020.02*, Hangzhou Zhituan Information Technology Co., Ltd. [HZZT](https://www.hzztai.com),Hangzhou, China.
